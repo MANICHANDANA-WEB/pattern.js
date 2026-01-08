@@ -1,1 +1,1 @@
-# pattern.js
+#.js
